@@ -2,6 +2,9 @@
 using namespace std;
 int main(){
   cout<<"Hello, Orzel";
-  return 0;
+  double a;
+  a=12;
 
+  return 0;
+  
 }
